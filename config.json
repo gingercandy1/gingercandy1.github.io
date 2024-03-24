@@ -1,13 +1,9 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "displayTitle":"Meekdai",
-    "homeUrl":"http://blog.meekdai.com",
+    "title":"Meekdai",
+    "subTitle":"童话是一种生活态度，仅此而已。",
+    "GMEEK_VERSION":"last"
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "email":"meekdai@163.com",
     "startSite":"02/16/2015",
-    "filingNum":"浙ICP备20023628号",
     "onePageListNum":15,
     "singlePage":[],
     "commentLabelColor":"#006b75",
